@@ -1,0 +1,10 @@
+Eat
+Drink
+Sleep
+Walk
+Run
+Happy
+Sad
+Big
+Small
+Hot

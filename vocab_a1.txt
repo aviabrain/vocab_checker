@@ -1,0 +1,10 @@
+Hello
+Goodbye
+Yes
+No
+Thank you
+Please
+Sorry
+Friend
+Family
+House
